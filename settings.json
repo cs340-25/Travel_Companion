@@ -1,0 +1,10 @@
+{
+    "rust-analyzer.enable": true,
+    "rust-analyzer.cargo.watchCommand.enable": true,
+    "rust-analyzer.checkOnSave.enable": true,
+    "editor.formatOnSave": true,
+    "files.associations": {
+      "*.rs": "rust"
+    }
+  }
+  
