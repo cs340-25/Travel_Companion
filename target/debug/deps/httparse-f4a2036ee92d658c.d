@@ -1,0 +1,10 @@
+/Users/justin_henley/Class/CS340/Travel_Companion/target/debug/deps/libhttparse-f4a2036ee92d658c.rmeta: /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/lib.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/iter.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/macros.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/mod.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/swar.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/neon.rs
+
+/Users/justin_henley/Class/CS340/Travel_Companion/target/debug/deps/httparse-f4a2036ee92d658c.d: /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/lib.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/iter.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/macros.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/mod.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/swar.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/neon.rs
+
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/lib.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/iter.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/macros.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/mod.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/swar.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.1/src/simd/neon.rs:

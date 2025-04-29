@@ -1,0 +1,11 @@
+/Users/justin_henley/Class/CS340/Travel_Companion/target/debug/deps/liburl-5b2ca79f7e6dc2d3.rmeta: /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/lib.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/host.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/origin.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/parser.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/path_segments.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/slicing.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/quirks.rs
+
+/Users/justin_henley/Class/CS340/Travel_Companion/target/debug/deps/url-5b2ca79f7e6dc2d3.d: /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/lib.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/host.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/origin.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/parser.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/path_segments.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/slicing.rs /Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/quirks.rs
+
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/lib.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/host.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/origin.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/parser.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/path_segments.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/slicing.rs:
+/Users/justin_henley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.4/src/quirks.rs:

@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		25F5EC1D2D9EA4D600F42B0B /* SVGView in Frameworks */ = {isa = PBXBuildFile; productRef = 25F5EC1C2D9EA4D600F42B0B /* SVGView */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		2559A5832D9976CA0093CEF5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25F5EC1D2D9EA4D600F42B0B /* SVGView in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +117,7 @@
 			);
 			name = "Travel Companion";
 			packageProductDependencies = (
+				25F5EC1C2D9EA4D600F42B0B /* SVGView */,
 			);
 			productName = "Travel Companion";
 			productReference = 2559A5712D9976C80093CEF5 /* Travel Companion.app */;
@@ -195,6 +201,9 @@
 			);
 			mainGroup = 2559A5682D9976C80093CEF5;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				25F5EC1B2D9EA4D600F42B0B /* XCRemoteSwiftPackageReference "SVGView" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 2559A5722D9976C80093CEF5 /* Products */;
 			projectDirPath = "";
@@ -541,6 +550,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		25F5EC1B2D9EA4D600F42B0B /* XCRemoteSwiftPackageReference "SVGView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/exyte/SVGView";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		25F5EC1C2D9EA4D600F42B0B /* SVGView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 25F5EC1B2D9EA4D600F42B0B /* XCRemoteSwiftPackageReference "SVGView" */;
+			productName = SVGView;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 2559A5692D9976C80093CEF5 /* Project object */;
 }
